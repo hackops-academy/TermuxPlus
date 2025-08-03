@@ -1,1 +1,6 @@
-
+alias ll='ls -la --color=auto'
+alias update='pkg update && pkg upgrade'
+alias tools='bash ~/TermuxPlus/tools-installer.sh'
+alias cls='clear'
+alias py='python'
+alias myip='curl ifconfig.me'
